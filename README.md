@@ -1,5 +1,5 @@
 # DiffIGS
-This is the ource code of DiffIGS and our paper is submitted to "NeurIPS2025".
+This is the source code of DiffIGS and our paper is submitted to "NeurIPS2025".
 # Prerequisites
 ## Install dependencies
 See ``requirments.txt`` file for more information about how to install the dependencies.
