@@ -8,7 +8,7 @@ The environments used in our paper are based on the [SMAC](https://github.com/ox
 # Usages
 
 ```python
-python3 main.py --config=DiffWMA --env-config=sc2 with env_args.map_name=corridor
+python3 main.py --config=DiffIGS --env-config=sc2 with env_args.map_name=corridor
 ```
 All results will be stored in the Results folder.
 
